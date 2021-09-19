@@ -1,2 +1,2 @@
 # Datastructure & Algorithm
-In this repositori, the data structure and algorithm problems been solved using Python. 
+In this repositori, the data structure and algorithm problems have been solved using Python. 
